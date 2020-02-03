@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "ninth-iris-236300",
+  "private_key_id": "2e1b0d351e36ac74bd50117d610cb701d61a0ad1",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQCVDjF+m+4yrQv3\nEAiD25YfjA1rh4Dzf5PvGgZYGpb8BvaoV00bKZu0hbRj2FLGCSdksz10uDkqd51y\ndtJ8W5BnaxXu2cfJYpbEyTmaCo5BdgLpthnYdaLPHcjTJQ7FtR+//CIkC7dPj4hR\nHz5a4E4h51cNO0gsEyIR1GyR2Wg6fI7wVAvJAUui5hD7I3R0Ln70Zy/FrZW+duxA\nwQjF2+6fhoBDO+f6mXtQYFGnONu135sg2rs29CoDCicZc6GdTwPoMDmOOfAUsWnh\nmMW0wHxhtVFGQHwrTY8rVdb+4UMtcu7WaawpXblbH5GGgzAqR985aSVgGQd4/b31\n8OtS0U4hAgMBAAECggEAAmvLGQPeYBtYdOhhQwcHjrafJy55xTq+w+T30mmIJ0rT\nqdNVMMpBubJsRizm10mhxqx0pJczcoGj4I6Wh6eTFmLyZcFK0fYUfdjI4zwlqGGK\n1ZH8JHxwqw2QTAGvlj2FaQBm64/3J8csjyjDQgWfr0RLMS9T0kdzR7fcFZhi7YQ/\nE2Wt0s+X6CVjqh0ZufHlbqMyF5pZQYnugkGqw/NhDZ6ffJvIqMPTACwcrfzLyj/b\nQjTn9gRIvnuO0M7epzokmWHZ42OC3xkpFpHPj0dclJs5+ERAL8FqPTMuGeLH9szN\naGkf/BFDks8KkkpucCmtyi19D1JQYTzxzx7xpoSMKwKBgQDGVdm7brXcGsz278nN\nmCjpWa8XPBbpQ0wX/oXO6WYMamxMi7QNXYC74BQrZNcqle6yf0a0xWESA6dCAhCK\n/qVVKs+8r85p8GeXN54oxNZOAblN+gj8w/cHKKn4SETiP6ELotgfHPJ0URaZYSYV\nl6BV6vdLPUBGF8TqvU3pR7NuywKBgQDAZG1GQS8Bc1hGiLODQZlGHWTU42zc2KwU\ni0ws2LK57Qie60p3CimEo9rqO8YmO1JN+1xul/5ovNGRbwAi+0zGisQa7q1a8p6r\npkaTiV2He86pmOEsbwJckxqpq3Tat4aQituliDX3tGS+lt+iTlPbloY8iqXX+SH3\no7aprFENQwKBgH3a7n58w1Q3gYbVJJadDqD88xloXRWKSdgT/+8LtmD8i1qLcCbn\nBZCyobnjlJIGcGC+WSzO70kSHmnJi5vX+SwxLX+LhA0/q0yO04MFXQRFHcR4fImB\nBNl7GVhe668yN0x9+mzL3qKm7hNITXV4MRs0LdaFuKqB3MgkdjMo95i/AoGAdgSk\n67XMqe0ht5Lf26J/7XzWf6lK/GaFmMyiW9hKOrdm1GWtdjxrn4wMHCeys30sTd3l\no4nlbEZ3n+khglP5kslI5uSGvwWZw93p6VMYZqXR7kNzzZgDMNqkPnSI6Cowh7ZG\natKVmG+2ZRuT77JwyoEZs0Wx2jxfU9O/l3G2/pUCgYAY+lAEKMKpnoEDluGFBTct\nsTRXOnWHbIDA5htmC6NSL43KV0qU1E1CQ2UfN9V0DfyXyCmMcXCJz7jOVq599GF8\n9Gt+Rc32SCPA7l7jNLwRelnVVgoNxVIPsQV4QrKaYR3ijIWSmoKXv8u03FeENUTW\nYaaGE8urPoUgRW0m4RpHjQ==\n-----END PRIVATE KEY-----\n",
+  "client_email": "dialogflow@ninth-iris-236300.iam.gserviceaccount.com",
+  "client_id": "105362409896901887952",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/dialogflow%40ninth-iris-236300.iam.gserviceaccount.com"
+}
