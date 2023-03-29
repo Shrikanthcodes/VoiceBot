@@ -1,9 +1,0 @@
-Switch: 1
-Monday= "11:30 to 15:00 and 17:00 to 21:30" "open" 
-Tuesday= "11:30 to 14:30 and 17:00 to 22:00" "closed"
-Wednesday= "11:30 to 15:00 and 17:00 to 21:30" "open"
-Thursday= "11:30 to 15:00 and 17:00 to 21:30" "open"
-Friday= "11:30 to 14:30 and 17:00 to 22:00" "open"
-Saturday= "11:30 to 14:30 and 17:00 to 22:00" "open"
-Sunday= "11:30 to 14:30 and 17:00 to 22:00" "open"
-
