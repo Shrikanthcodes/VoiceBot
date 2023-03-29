@@ -1,2 +1,2 @@
-# Restaurant-HelpBot
-This is the test version of a restaurant bot built using python
+# VoiceBot Training
+This is a bot built using python
